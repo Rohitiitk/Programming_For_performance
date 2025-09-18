@@ -1,0 +1,3941 @@
+A cozy cafe nestled on a bustling street corner. 
+The aroma of freshly brewed coffee fills the air, enticing passersby to step inside. 
+Friends chat over steaming mugs, sharing stories and laughter. 
+The atmosphere is warm and inviting, a perfect place to unwind.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for givin
+The sun shines brightly in the sky. Birds chirp and fly through the air. 
+Flowers bloom in various colors, adding beauty to the surroundings. 
+People enjoy picnics and outdoor activities during this pleasant weather.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in 
+history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of huma
+nity's re
+corded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be u
+sed for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replica
+te a scale model of a war
+
+chariot. By adding an inter-connected syst
+em of gears, we
+have caused the offensive blades to rapi
+dly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious a
+sset during wars and
+transportation in ancient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes 
+learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE la
+boratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral 
+and technical support, we would not have
+been able to complete this effortful task.
+We would like t
+A cozy cafe nestled on a bustling street corner. 
+The aroma of freshly brewed coffee fills the air, enticing passersby to step inside. 
+Friends chat over steaming mugs, sharing stories and laughter. 
+The atmosphere is warm and inviting, a perfect place to unwind.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Goura
+v Mishra, Mr. Nripen
+She walked along the narrow path, surrounded by tall trees. 
+Leaves rustled in the gentle breeze, c
+reating a soothing sound. 
+Her footsteps echoed softly as she co
+ntinued her journey. 
+The path led to a hidden clearing wh
+re a stream flowed peacefully.
+AKNOWLEDGEMENT
+We sincerely express our gratitude t
+o our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and tech
+nical suppor
+t, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and a
+
+ll lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. A
+nurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valu
+able time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing
+ us with this o
+pportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to o
+ur tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support 
+and advice in this project.
+Without their moral and technic
+al support, we would not have
+been able to complete this eff
+ortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh a
+nd all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh,
+ Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable
+ support and advice in this project.
+Without their moral and 
+technical support, we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to
+ our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all 
+lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. A
+nurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the proj
+ect.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude 
+towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav
+ Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-I
+n-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the di
+fferent manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in
+ royal processions and in
+warfare, racing and hunti
+ng. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots sig
+nified the strength of 
+an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and
+ functional
+aspects of a chariot, a
+ precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and adv
+ice in this project.
+Without their moral and technical 
+support, we would not have
+been able to complete this ef
+fortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit,
+ Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like ve
+hicle used in ancient times
+and driven by horses used in r
+oyal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in h
+istory.
+It gave humanity its first
+ concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, te
+chniques and materials used to
+build such a complex-looking structure.
+The knowledge of 
+manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixi
+t, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant 
+supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the diff
+erent manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. 
+The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years 
+it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the s
+trength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to
+ replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precio
+us asset during wars and
+transportation in ancient times.
+It was very famo
+us at the time of kings. We wanted to learn
+about the diff
+erent tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anu
+rag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs
+, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like 
+vehicle used in anc
+ient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and
+ transport, in
+processions, for games, and in races.
+On knowing the following exciting 
+facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades
+ to rapidly spin to chop
+away the enemies.
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh a
+nd all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Si
+ngh, Mr. Anurag Prasad, Mr. Pappu)
+for their consta
+nt supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years i
+t was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified
+ the strength of an army. Chariots
+continued to be use
+d for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given ou
+r best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient ti
+mes.
+It was very famous at the 
+time of kings. We wanted to learn
+about the different tools,
+ techniques and materia
+ ls used to
+build such a complex-looking structure.
+The knowledge of man
+ufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuabl
+e support and advice in this project.
+Without their moral and technical su
+pport, we would not have
+been able to complete this effor
+tful task.
+We would like to express our gratitude t
+owards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab 
+staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encourag
+ement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+A cozy cafe nestled on a bustling street corner. 
+The aroma of freshly brewed coffee fills the air, enticing passersby to step inside. 
+Friends chat over steaming mugs, sharing stories and laughter. 
+The atmosphere is warm and inviting, a perfect place to unwind.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and 
+technical support, we would not have
+been able to complete this effortful task.
+We would like to expr
+ess our gratitude towards Course Staff-In-
+Charge: Mr. Indra
+ Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. 
+Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant
+ supervisio
+n and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable ti
+me.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manuf
+acturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr.
+ Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr
+. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Goura
+v Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge
+, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical sup
+port, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gou
+rav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their mor
+al and technical support, we would not have
+been a
+ble to complete this effortful task.
+We would like to expres
+s our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and
+ all lab staff (Mr. IP Singh, Mr.
+AK Verma,
+ Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+
+rtunity to learn, explore and make
+something valuable using the d
+ifferent manufacturing processes.
+AKNOWLEDGEMENT
+
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE labora
+tory in-charge, Mr. Anil Kumar
+Verma for their valuab
+le support and advice in this project.
+Without their moral and technical support, we would not have
+been able to
+ complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Si
+ngh and all la
+b staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to 
+our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for givi
+ng us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the
+ project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we tha
+nk our Instructor
+-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been ab
+le to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh
+ and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their con
+stant supervision and encouragement which helped
+us in the comple
+tion of th
+e project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall,
+ we thank our Instr
+uctor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something 
+valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable supp
+ort and advice in this p
+roject.
+Without their moral 
+and technical support, we would not have
+been able to compl
+ete this effortful task.
+We would like
+ to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr
+. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supe
+rvision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the 
+different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for thei
+r valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to 
+express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and 
+all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav 
+Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In
+-Charge, Dr. Niraj Chawake,
+for providing us with this opport
+unity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE labo
+ratory in-charge, Mr. Anil Kumar
+Verma for their 
+valuable suppor
+t and advice
+ in this 
+project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitud
+e to our tutor, Prof. Vivek
+Verma and our MSE lab
+oratory in-charge, Mr. Anil
+Kumar
+Verma for
+ their va
+luable sup
+port and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. G
+ourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, 
+Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Ver
+ma for their valuable support and advice in this project.
+Without their moral and te
+chnical support, 
+we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anur
+ag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion 
+of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we t
+hank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us
+ with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their va
+luable support and advice in this project.
+Without their moral and tec
+hnical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit
+, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for g
+ames, and in races.
+On knowing the 
+following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was t
+o unde
+rstand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in a
+ncient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-l
+ooking structure.
+The knowledge of m
+anufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express ou
+r grati
+tude to our tutor, Prof. Vivek
+Verma and our MSE 
+labora
+tory in-charge, Mr. Anil Kumar
+Verma for their val
+uable support and advice in this project.
+Without t
+heir moral and technical support, we would not have
+been able to complete this effortful task.
+We wo
+uld like to express ou
+r gratitude towards Course Staff-In-
+Charge: Mr. Indra Pa
+l Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Sing
+h, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Ku
+nal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh,
+ Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge
+, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical sup
+port, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gou
+rav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their mor
+al and technical support, we would not have
+been a
+ble to complete this effortful task.
+We would like to expres
+s our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and
+ all lab staff (Mr. IP Singh, Mr.
+AK Verma,
+ Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the d
+ifferent manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE labora
+tory in-charge, Mr. Anil Kumar
+Verma for their valuab
+le support and advice in this project.
+Without their moral and technical support, we would not have
+been able to
+ complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Si
+ngh and all la
+b staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to 
+our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for givi
+ng us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the
+ project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we tha
+nk our Instructor
+-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been ab
+le to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh
+ and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their con
+stant supervision and encouragement which helped
+us in the comple
+tion of th
+e project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall,
+ we thank our Instr
+uctor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something 
+valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable supp
+ort and advice in this p
+roject.
+Without their moral 
+and technical support, we would not have
+been able to compl
+ete this effortful task.
+We would like
+ to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr
+. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supe
+rvision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the 
+different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for thei
+r valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to 
+express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and 
+all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav 
+Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In
+-Charge, Dr. Niraj Chawake,
+for providing us with this opport
+unity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE labo
+ratory in-charge, Mr. Anil Kumar
+Verma for their 
+valuable suppor
+t and advice
+ in this 
+project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitud
+e to our tutor, Prof. Vivek
+Verma and our MSE lab
+oratory in-charge, Mr. Anil
+Kumar
+Verma for
+ their va
+luable sup
+port and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. G
+ourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, 
+Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Ver
+ma for their valuable support and advice in this project.
+Without their moral and te
+chnical support, 
+we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anur
+ag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion 
+of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we t
+hank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us
+ with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their va
+luable support and advice in this project.
+Without their moral and tec
+hnical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit
+, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for g
+ames, and in races.
+On knowing the 
+following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was t
+o unde
+rstand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in a
+ncient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-l
+ooking structure.
+The knowledge of m
+anufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express ou
+r grati
+tude to our tutor, Prof. Vivek
+Verma and our MSE 
+labora
+tory in-charge, Mr. Anil Kumar
+Verma for their val
+uable support and advice in this project.
+Without t
+heir moral and technical support, we would not have
+been able to complete this effortful task.
+We wo
+uld like to express ou
+r gratitude towards Course Staff-In-
+Charge: Mr. Indra Pa
+l Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Sing
+h, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Ku
+nal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+o express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+The sun shines brightly in the sky. Birds chirp and fly through the air. 
+Flowers bloom in various colors, adding beauty to the surroundings. 
+People enjoy picnics and outdoor activities during this pleasant weather.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in 
+history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of huma
+nity's re
+corded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be u
+sed for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replica
+te a scale model of a war
+
+chariot. By adding an inter-connected syst
+em of gears, we
+have caused the offensive blades to rapi
+dly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious a
+sset during wars and
+transportation in ancient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes 
+learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE la
+boratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral 
+and technical support, we would not have
+been able to complete this effortful task.
+We would like t
+A cozy cafe nestled on a bustling street corner. 
+The aroma of freshly brewed coffee fills the air, enticing passersby to step inside. 
+Friends chat over steaming mugs, sharing stories and laughter. 
+The atmosphere is warm and inviting, a perfect place to unwind.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Goura
+v Mishra, Mr. Nripen
+She walked along the narrow path, surrounded by tall trees. 
+Leaves rustled in the gentle breeze, c
+reating a soothing sound. 
+Her footsteps echoed softly as she co
+ntinued her journey. 
+The path led to a hidden clearing wh
+re a stream flowed peacefully.
+AKNOWLEDGEMENT
+We sincerely express our gratitude t
+o our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and tech
+nical suppor
+t, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and a
+
+ll lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. A
+nurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valu
+able time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing
+ us with this o
+pportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to o
+ur tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support 
+and advice in this project.
+Without their moral and technic
+al support, we would not have
+been able to complete this eff
+ortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh a
+nd all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh,
+ Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable
+ support and advice in this project.
+Without their moral and 
+technical support, we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to
+ our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all 
+lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. A
+nurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the proj
+ect.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude 
+towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav
+ Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-I
+n-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the di
+fferent manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in
+ royal processions and in
+warfare, racing and hunti
+ng. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots sig
+nified the strength of 
+an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and
+ functional
+aspects of a chariot, a
+ precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and adv
+ice in this project.
+Without their moral and technical 
+support, we would not have
+been able to complete this ef
+fortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit,
+ Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like ve
+hicle used in ancient times
+and driven by horses used in r
+oyal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in h
+istory.
+It gave humanity its first
+ concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, te
+chniques and materials used to
+build such a complex-looking structure.
+The knowledge of 
+manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixi
+t, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant 
+supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the diff
+erent manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. 
+The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years 
+it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the s
+trength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given our best try to
+ replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precio
+us asset during wars and
+transportation in ancient times.
+It was very famo
+us at the time of kings. We wanted to learn
+about the diff
+erent tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anu
+rag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs
+, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like 
+vehicle used in anc
+ient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and
+ transport, in
+processions, for games, and in races.
+On knowing the following exciting 
+facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades
+ to rapidly spin to chop
+away the enemies.
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient times.
+It was very famous at the time of kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-looking structure.
+The knowledge of manufacturing processes learnt in
+TA201 applied to large-scale engineering projects gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh a
+nd all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Si
+ngh, Mr. Anurag Prasad, Mr. Pappu)
+for their consta
+nt supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years i
+t was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified
+ the strength of an army. Chariots
+continued to be use
+d for travel and transport, in
+processions, for games, and in races.
+On knowing the following exciting facts about chariots, we
+have given ou
+r best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was to understand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in ancient ti
+mes.
+It was very famous at the 
+time of kings. We wanted to learn
+about the different tools,
+ techniques and materia
+ ls used to
+build such a complex-looking structure.
+The knowledge of man
+ufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuabl
+e support and advice in this project.
+Without their moral and technical su
+pport, we would not have
+been able to complete this effor
+tful task.
+We would like to express our gratitude t
+owards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab 
+staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encourag
+ement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+A cozy cafe nestled on a bustling street corner. 
+The aroma of freshly brewed coffee fills the air, enticing passersby to step inside. 
+Friends chat over steaming mugs, sharing stories and laughter. 
+The atmosphere is warm and inviting, a perfect place to unwind.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and 
+technical support, we would not have
+been able to complete this effortful task.
+We would like to expr
+ess our gratitude towards Course Staff-In-
+Charge: Mr. Indra
+ Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. 
+Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant
+ supervisio
+n and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable ti
+me.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manuf
+acturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr.
+ Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr
+. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Goura
+v Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge
+, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical sup
+port, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gou
+rav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their mor
+al and technical support, we would not have
+been a
+ble to complete this effortful task.
+We would like to expres
+s our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and
+ all lab staff (Mr. IP Singh, Mr.
+AK Verma,
+ Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+
+rtunity to learn, explore and make
+something valuable using the d
+ifferent manufacturing processes.
+AKNOWLEDGEMENT
+
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE labora
+tory in-charge, Mr. Anil Kumar
+Verma for their valuab
+le support and advice in this project.
+Without their moral and technical support, we would not have
+been able to
+ complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Si
+ngh and all la
+b staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to 
+our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for givi
+ng us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the
+ project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we tha
+nk our Instructor
+-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been ab
+le to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh
+ and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their con
+stant supervision and encouragement which helped
+us in the comple
+tion of th
+e project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall,
+ we thank our Instr
+uctor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something 
+valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable supp
+ort and advice in this p
+roject.
+Without their moral 
+and technical support, we would not have
+been able to compl
+ete this effortful task.
+We would like
+ to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr
+. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supe
+rvision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the 
+different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for thei
+r valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to 
+express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and 
+all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav 
+Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In
+-Charge, Dr. Niraj Chawake,
+for providing us with this opport
+unity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE labo
+ratory in-charge, Mr. Anil Kumar
+Verma for their 
+valuable suppor
+t and advice
+ in this 
+project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitud
+e to our tutor, Prof. Vivek
+Verma and our MSE lab
+oratory in-charge, Mr. Anil
+Kumar
+Verma for
+ their va
+luable sup
+port and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. G
+ourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, 
+Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Ver
+ma for their valuable support and advice in this project.
+Without their moral and te
+chnical support, 
+we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anur
+ag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion 
+of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we t
+hank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us
+ with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their va
+luable support and advice in this project.
+Without their moral and tec
+hnical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit
+, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for g
+ames, and in races.
+On knowing the 
+following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was t
+o unde
+rstand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in a
+ncient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-l
+ooking structure.
+The knowledge of m
+anufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express ou
+r grati
+tude to our tutor, Prof. Vivek
+Verma and our MSE 
+labora
+tory in-charge, Mr. Anil Kumar
+Verma for their val
+uable support and advice in this project.
+Without t
+heir moral and technical support, we would not have
+been able to complete this effortful task.
+We wo
+uld like to express ou
+r gratitude towards Course Staff-In-
+Charge: Mr. Indra Pa
+l Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Sing
+h, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Ku
+nal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh,
+ Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge
+, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical sup
+port, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gou
+rav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their mor
+al and technical support, we would not have
+been a
+ble to complete this effortful task.
+We would like to expres
+s our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and
+ all lab staff (Mr. IP Singh, Mr.
+AK Verma,
+ Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the d
+ifferent manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE labora
+tory in-charge, Mr. Anil Kumar
+Verma for their valuab
+le support and advice in this project.
+Without their moral and technical support, we would not have
+been able to
+ complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Si
+ngh and all la
+b staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to 
+our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for givi
+ng us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the
+ project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we tha
+nk our Instructor
+-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been ab
+le to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh
+ and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their con
+stant supervision and encouragement which helped
+us in the comple
+tion of th
+e project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall,
+ we thank our Instr
+uctor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something 
+valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable supp
+ort and advice in this p
+roject.
+Without their moral 
+and technical support, we would not have
+been able to compl
+ete this effortful task.
+We would like
+ to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr
+. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supe
+rvision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the 
+different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for thei
+r valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to 
+express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and 
+all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav 
+Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In
+-Charge, Dr. Niraj Chawake,
+for providing us with this opport
+unity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE labo
+ratory in-charge, Mr. Anil Kumar
+Verma for their 
+valuable suppor
+t and advice
+ in this 
+project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitud
+e to our tutor, Prof. Vivek
+Verma and our MSE lab
+oratory in-charge, Mr. Anil
+Kumar
+Verma for
+ their va
+luable sup
+port and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. G
+ourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, 
+Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Ver
+ma for their valuable support and advice in this project.
+Without their moral and te
+chnical support, 
+we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anur
+ag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion 
+of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we t
+hank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us
+ with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their va
+luable support and advice in this project.
+Without their moral and tec
+hnical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit
+, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for g
+ames, and in races.
+On knowing the 
+following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was t
+o unde
+rstand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in a
+ncient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-l
+ooking structure.
+The knowledge of m
+anufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express ou
+r grati
+tude to our tutor, Prof. Vivek
+Verma and our MSE 
+labora
+tory in-charge, Mr. Anil Kumar
+Verma for their val
+uable support and advice in this project.
+Without t
+heir moral and technical support, we would not have
+been able to complete this effortful task.
+We wo
+uld like to express ou
+r gratitude towards Course Staff-In-
+Charge: Mr. Indra Pa
+l Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Sing
+h, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Ku
+nal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+o express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+
+g us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Goura
+v Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge
+, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical sup
+port, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gou
+rav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their mor
+al and technical support, we would not have
+been a
+ble to complete this effortful task.
+We would like to expres
+s our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and
+ all lab staff (Mr. IP Singh, Mr.
+AK Verma,
+ Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+
+rtunity to learn, explore and make
+something valuable using the d
+ifferent manufacturing processes.
+AKNOWLEDGEMENT
+
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE labora
+tory in-charge, Mr. Anil Kumar
+Verma for their valuab
+le support and advice in this project.
+Without their moral and technical support, we would not have
+been able to
+ complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Si
+ngh and all la
+b staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant sup
+ervision and encouragement which helped
+us in the completion of the project.
+Special thanks to 
+our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for givi
+ng us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, M
+r. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the
+ project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we tha
+nk our Instructor
+-In-Charge, Dr. Niraj Chawake,
+for providing us with this oppo
+rtunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been ab
+le to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh
+ and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their con
+stant supervision and encouragement which helped
+us in the comple
+tion of th
+e project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall,
+ we thank our Instr
+uctor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something 
+valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their valuable supp
+ort and advice in this p
+roject.
+Without their moral 
+and technical support, we would not have
+been able to compl
+ete this effortful task.
+We would like
+ to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr
+. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supe
+rvision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the 
+different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for thei
+r valuable support and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to 
+express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and 
+all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav 
+Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In
+-Charge, Dr. Niraj Chawake,
+for providing us with this opport
+unity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our g
+ratitude to our tutor, Prof. Vivek
+Verma and our MSE labo
+ratory in-charge, Mr. Anil Kumar
+Verma for their 
+valuable suppor
+t and advice
+ in this 
+project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+We sincerely express our gratitud
+e to our tutor, Prof. Vivek
+Verma and our MSE lab
+oratory in-charge, Mr. Anil
+Kumar
+Verma for
+ their va
+luable sup
+port and advice in this project.
+Without their moral and technical support, we would not have
+been able to complete this effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: M
+r. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. G
+ourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, 
+Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+
+AKNOWLEDGEMENT
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Ver
+ma for their valuable support and advice in this project.
+Without their moral and te
+chnical support, 
+we would not have
+been able to complete this 
+effortful task.
+We would like to express our gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj S
+ingh, Mr. Anur
+ag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion 
+of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we t
+hank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us
+ with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.
+AKNOWLEDGEMENT
+
+We sincerely express our gratitude to our tutor, Prof. Vivek
+Verma and our MSE laboratory in-charge, Mr. Anil Kumar
+Verma for their va
+luable support and advice in this project.
+Without their moral and tec
+hnical support, we would not have
+been able to complete this effortful task.
+We would like to express our 
+gratitude towards Course Staff-In-
+Charge: Mr. Indra Pal Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit
+, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Singh, Mr. Anurag Prasad, Mr. Pappu)
+for their constant super
+vision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Kunal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.INTRODUCTION
+A chariot is a carriage-like vehicle used in ancient times
+and driven by horses used in royal processions and in
+warfare, racing and hunting. The chariot was one of the
+most important inventions in history.
+It gave humanity its first concept of personal transport,
+and for two thousand years it was the key technology of
+war – for most of humanity's recorded history, the number
+of chariots signified the strength of an army. Chariots
+continued to be used for travel and transport, in
+processions, for g
+ames, and in races.
+On knowing the 
+following exciting facts about chariots, we
+have given our best try to replicate a scale model of a war
+chariot. By adding an inter-connected system of gears, we
+have caused the offensive blades to rapidly spin to chop
+away the enemies.
+(3)
+Page 3MOTIVATION
+Our Project is WAR CHARIOT. The motivation behind this
+project was t
+o unde
+rstand the structural and functional
+aspects of a chariot, a precious asset during wars and
+transportation in a
+ncient times.
+It was very famous at the time of
+ kings. We wanted to learn
+about the different tools, techniques and materials used to
+build such a complex-l
+ooking structure.
+The knowledge of m
+anufacturing processes learnt in
+TA201 applied to large-scale engineering proje
+cts gives us
+a natural feel of how functions work in real-life systems.
+(4)
+Page 4AKNOWLEDGEMENT
+We sincerely express ou
+r grati
+tude to our tutor, Prof. Vivek
+Verma and our MSE 
+labora
+tory in-charge, Mr. Anil Kumar
+Verma for their val
+uable support and advice in this project.
+Without t
+heir moral and technical support, we would not have
+been able to complete this effortful task.
+We wo
+uld like to express ou
+r gratitude towards Course Staff-In-
+Charge: Mr. Indra Pa
+l Singh and all lab staff (Mr. IP Singh, Mr.
+AK Verma, Mr. Rakesh Dixit, Mr. Gourav Mishra, Mr. Nripen
+Deka, Mr. Bharat Raj Sing
+h, Mr. Anurag Prasad, Mr. Pappu)
+for their constant supervision and encouragement which helped
+us in the completion of the project.
+Special thanks to our TAs, Mr. Ku
+nal Kishore and Mr. Rajneesh
+Pandey for giving us their valuable time.
+Overall, we thank our Instructor-In-Charge, Dr. Niraj Chawake,
+for providing us with this opportunity to learn, explore and make
+something valuable using the different manufacturing processes.

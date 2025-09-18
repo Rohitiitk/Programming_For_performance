@@ -1,0 +1,18 @@
+g++ -O3 1_fixed.cpp -lpapi -std=c++17 -march=native -o conv3d_autotune_papi
+./conv3d_autotune_papi
+
+
+
+sudo apt update
+sudo apt install libpapi-dev
+
+
+Verify installation
+After installation, check:
+
+dpkg -L libpapi-dev | grep papi.h
+
+
+You should see a path like:
+
+/usr/include/papi.h
